@@ -35,7 +35,7 @@
         <div id="main_content">
       		<div id="join_box">
           	<form  name="member_form" method="post" action="member_modify.php?id=<?=$userid?>">
-			    <h2>회원 정보수정</h2>
+			    <h2>회원 정보 수정</h2>
     		    	<div class="form id">
 				        <div class="col1">아이디</div>
 				        <div class="col2">
